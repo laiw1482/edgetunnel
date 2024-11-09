@@ -51,6 +51,7 @@ let addresses = [
 	'qa.visamiddleeast.com',
 	'time.is',
 	'www.wto.org:8443',
+        'www.shopify.com:443',
 	'chatgpt.com:2087',
 	'icook.hk',
 	'104.17.0.0#IPv4',
